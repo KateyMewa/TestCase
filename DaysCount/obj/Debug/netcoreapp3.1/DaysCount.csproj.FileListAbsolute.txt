@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Test\DaysCount\DaysCount\bin\Debug\netcoreapp3.1\DaysCount.exe
+C:\Users\User\Desktop\Test\DaysCount\DaysCount\bin\Debug\netcoreapp3.1\DaysCount.deps.json
+C:\Users\User\Desktop\Test\DaysCount\DaysCount\bin\Debug\netcoreapp3.1\DaysCount.runtimeconfig.json
+C:\Users\User\Desktop\Test\DaysCount\DaysCount\bin\Debug\netcoreapp3.1\DaysCount.runtimeconfig.dev.json
+C:\Users\User\Desktop\Test\DaysCount\DaysCount\bin\Debug\netcoreapp3.1\DaysCount.dll
+C:\Users\User\Desktop\Test\DaysCount\DaysCount\bin\Debug\netcoreapp3.1\DaysCount.pdb
+C:\Users\User\Desktop\Test\DaysCount\DaysCount\obj\Debug\netcoreapp3.1\DaysCount.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Test\DaysCount\DaysCount\obj\Debug\netcoreapp3.1\DaysCount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Test\DaysCount\DaysCount\obj\Debug\netcoreapp3.1\DaysCount.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Test\DaysCount\DaysCount\obj\Debug\netcoreapp3.1\DaysCount.AssemblyInfo.cs
+C:\Users\User\Desktop\Test\DaysCount\DaysCount\obj\Debug\netcoreapp3.1\DaysCount.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Test\DaysCount\DaysCount\obj\Debug\netcoreapp3.1\DaysCount.dll
+C:\Users\User\Desktop\Test\DaysCount\DaysCount\obj\Debug\netcoreapp3.1\DaysCount.pdb
+C:\Users\User\Desktop\Test\DaysCount\DaysCount\obj\Debug\netcoreapp3.1\DaysCount.genruntimeconfig.cache
